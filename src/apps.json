@@ -1,0 +1,18 @@
+[
+    {
+        "app": "terminator",
+        "path": "/usr/bin/terminator"
+    },
+    {
+        "app": "chrome",
+        "path": "/usr/bin/google-chrome"
+    },
+    {
+        "app": "slack",
+        "path": "/usr/bin/slack"
+    },
+    {
+        "app": "spotify",
+        "path": "/usr/bin/spotify"
+    }
+]
